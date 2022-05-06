@@ -1,0 +1,61 @@
+/* ************************************TAG SELECTORS**************************************/*
+
+  body {
+    background-color: #EAF6F6
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    width: 4%;
+  }
+h1 {
+  color: #66BFBF
+}
+h3 {
+color: #66BFBF
+}
+img {
+  border-radius: 50%;
+}
+
+/* ************************************CLASS SELECTORS**************************************/*
+
+.celeste1 {
+
+height: 100px;
+width: 400px;
+background-color: lightblue;
+position: relative;
+left: 1500px;
+bottom: 700px
+}
+
+.white {
+  height: 100px;
+  width: 400px;
+  background-color: white;
+  position: relative;
+  left: 1500px;
+  bottom: 698px
+}
+.celeste2 {
+  height: 100px;
+  width: 400px;
+  background-color: lightblue;
+  position: relative;
+  left: 1500px;
+  bottom: 697px;
+}
+
+.sun {
+  height: 100px;
+  width: 100px;
+  border-radius: 70%;
+  background-color: yellow;
+  position: relative;
+  left: 1650px;
+  bottom: 899px;
+  display: inline-block;
+}
